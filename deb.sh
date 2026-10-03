@@ -7,7 +7,7 @@ VERSION="${VERSION:-1.0.0}"
 # renovate: datasource=github-tags depName=libkrun/libkrun
 KRUN_VER=v1.19.6
 # renovate: datasource=github-tags depName=libkrun/libkrunfw
-FW_VER=v5.6.1
+FW_VER=v5.6.2
 # renovate: datasource=github-tags depName=containers/crun
 CRUN_VER=1.29.1
 
