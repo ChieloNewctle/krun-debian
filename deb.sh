@@ -9,7 +9,7 @@ KRUN_VER=v1.19.6
 # renovate: datasource=github-tags depName=libkrun/libkrunfw
 FW_VER=v5.6.2
 # renovate: datasource=github-tags depName=containers/crun
-CRUN_VER=1.29.1
+CRUN_VER=1.30.1
 
 PREFIX="${PREFIX:-/opt/$PKG_NAME}"
 
