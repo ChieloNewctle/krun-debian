@@ -5,7 +5,7 @@ PKG_NAME="${PKG_NAME:-krun-chielo}"
 VERSION="${VERSION:-1.0.0}"
 
 # renovate: datasource=github-tags depName=libkrun/libkrun
-KRUN_VER=v1.19.7
+KRUN_VER=v1.19.8
 # renovate: datasource=github-tags depName=libkrun/libkrunfw
 FW_VER=v5.6.2
 # renovate: datasource=github-tags depName=containers/crun
